@@ -5,7 +5,7 @@ const saveState = {
     lastSavedAt: null,
     failed: false
 };
-const POOL_JOIN_PASSWORD = 'fifafifa26';
+const POOL_JOIN_PASSWORD = 'rain26';
 let profileStatusChannel = null;
 let blockedStatusPollInterval = null;
 let blockedVisibilityListenerAttached = false;
