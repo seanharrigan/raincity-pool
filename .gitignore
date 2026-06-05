@@ -1,0 +1,21 @@
+# npm / Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Local scratch / publish artifacts
+.herenow/
+tier-compare/

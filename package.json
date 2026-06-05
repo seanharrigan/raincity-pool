@@ -1,0 +1,16 @@
+{
+  "name": "world-cup-pool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/scoring.test.mjs tests/tournament-logic.test.mjs",
+    "stress": "node tests/stress-sim.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "supabase": "^2.95.3"
+  }
+}
