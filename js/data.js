@@ -1,5 +1,5 @@
-const SUPABASE_URL = 'https://REPLACE-WITH-NEW-PROJECT.supabase.co';
-const SUPABASE_KEY = 'REPLACE_WITH_NEW_PUBLISHABLE_KEY';
+const SUPABASE_URL = 'https://znlyplxccsjxtgedlqwt.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_j3NzGn5IZdW7yCIN7z9wRA_KdF1blp_';
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 // Kickoff: Mexico vs South Africa, 12:00 PM Mexico City (UTC−6, no DST) = 18:00 UTC.
 // The trailing 'Z' fixes this as an absolute UTC instant so every viewer's
